@@ -1,0 +1,19 @@
+{
+  "name": "operating_session",
+  "version": "1.0.0",
+  "description": "app for operation train sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnycricket/operating_session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnycricket/operating_session/issues"
+  },
+  "homepage": "https://github.com/johnnycricket/operating_session#readme"
+}
